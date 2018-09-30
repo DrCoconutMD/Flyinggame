@@ -2,11 +2,10 @@ Engine vrs 4.20
 Todo
 
 Ship flight
-- [ ] Max Speed
-- [ ] Rotation Stabalization
+- [ ] Max Speed               - Dallas      
+- [ ] Rotation Stabalization   /
 - [ ] Set controls
 - [ ] All stop
-- [ ] Rotation stabalization
 - [ ] Enable ez flying?
 - [ ] Menus (Start/controls/restart)
 ----------------------------------
