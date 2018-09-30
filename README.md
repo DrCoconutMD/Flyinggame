@@ -2,7 +2,7 @@ Engine vrs 4.20
 Todo
 
 Ship flight
-- [ ] Max Speed---------------- Dallas      
+- [x] Max Speed---------------- Dallas      
 - [ ] Rotation Stabalization ---Dallas
 - [ ] Set controls
 - [ ] All stop------------------Dallas
