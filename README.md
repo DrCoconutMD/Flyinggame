@@ -3,7 +3,7 @@ Todo
 
 Ship flight
 - [ ] Max Speed
-- [ ] Rotation control
+- [ ] Rotation Stabalization
 - [ ] Set controls
 - [ ] All stop
 - [ ] Rotation stabalization
